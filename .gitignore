@@ -21,3 +21,9 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+node_modules/.bin/acorn
+node_modules/.bin/acorn
+node_modules/.bin/acorn
+node_modules/
+*.cmd
+*.md
